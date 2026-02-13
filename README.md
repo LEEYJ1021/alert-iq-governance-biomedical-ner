@@ -243,16 +243,6 @@ alert-iq-governance-biomedical-ner/
 │   └── reports/                      # Analysis reports
 │       └── COMPREHENSIVE_FINAL_REPORT.txt
 │
-├── notebooks/                        # Jupyter notebooks (optional)
-│   ├── 01_exploratory_analysis.ipynb
-│   └── 02_sensitivity_analysis.ipynb
-│
-├── tests/                            # Unit tests
-│   ├── __init__.py
-│   ├── test_data_loader.py
-│   ├── test_feature_engineering.py
-│   └── test_causal_inference.py
-│
 └── docs/                             # Documentation
     ├── DATA_DICTIONARY.md            # Variable descriptions
     └── REPRODUCTION.md               # Reproduction guide
