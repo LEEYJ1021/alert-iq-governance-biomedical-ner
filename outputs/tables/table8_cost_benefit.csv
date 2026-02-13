@@ -1,0 +1,11 @@
+Metric,Value
+True Positives,5556.0
+False Positives,47654.0
+True Negatives,73450.0
+False Negatives,2285.0
+Total Cost,59079.0
+Baseline Cost (No Monitoring),39205.0
+Cost Saving,-19874.0
+Saving %,-50.692513709985974
+Optimal Threshold,0.10526315789473684
+ROC AUC,0.8542915444458614

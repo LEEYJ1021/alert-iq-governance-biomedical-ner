@@ -1,0 +1,3 @@
+Stage,Dependent_Var,Key_Coefficient,F_Statistic,Cragg_Donald_F,Stock_Yogo_10pct,Instrument_Strength
+First Stage,Alert_S,0.024165333120667563,3655.2762007654064,3289.748580688866,16.38,STRONG
+Second Stage (IV),NER_F1,-0.33512864047386276,,,,

@@ -1,0 +1,6 @@
+Path,Coefficient,Percent_Mediated
+a (Alert → Drift),0.2686584057356882,
+b (Drift → Performance),-0.023115834959358143,
+c (Total Effect),-0.0058084798261670715,
+Indirect (a×b),-0.006210263367430446,106.91718923518248
+Direct (c-a×b),0.0004017835412633746,
