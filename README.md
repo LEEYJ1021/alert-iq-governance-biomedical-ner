@@ -294,21 +294,9 @@ See [Repository Structure](#repository-structure) section for details.
 | **ROC AUC** | 0.854 | Alert discriminative capacity |
 | **HTE Range** | 31-fold | Context 4: -0.0376 to Context 1: -0.0012 |
 
-## 📝 Citation
+## 📝 Dataset Citation
 
 If you use this code or data in your research, please cite:
-
-```bibtex
-@article{lee2025causal,
-  title={Causal Evaluation of Alert-Based Information Quality Governance in Biomedical Entity Recognition under Long-Tail Distributional Shift},
-  author={Lee, Yong-Jae},
-  journal={[Journal Name]},
-  year={2025},
-  institution={TOBESOFT AI Lab}
-}
-```
-
-### Dataset Citation
 
 ```bibtex
 @misc{sasse2025synthetic,
