@@ -255,9 +255,7 @@ alert-iq-governance-biomedical-ner/
 │
 └── docs/                             # Documentation
     ├── DATA_DICTIONARY.md            # Variable descriptions
-    ├── METHODOLOGY.md                # Detailed methods
-    ├── REPRODUCTION.md               # Reproduction guide
-    └── CITATION.md                   # How to cite
+    └── REPRODUCTION.md               # Reproduction guide
 ```
 
 See [Repository Structure](#repository-structure) section for details.
