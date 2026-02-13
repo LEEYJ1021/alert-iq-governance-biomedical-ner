@@ -226,22 +226,19 @@ alert-iq-governance-biomedical-ner/
 │   │   └── fig12_error_analysis.png
 │   │
 │   ├── tables/                       # 13 CSV tables
-│   │   ├── table1_did_results.csv
-│   │   ├── table2_parallel_trends.csv
-│   │   ├── table3_iv_analysis.csv
-│   │   ├── table4_mediation.csv
-│   │   ├── table5_hte_context.csv
-│   │   ├── table6_sota_comparison.csv
-│   │   ├── table7_external_benchmarks.csv
-│   │   ├── table8_cost_benefit.csv
-│   │   ├── table9_sensitivity.csv
-│   │   ├── table10_error_analysis.csv
-│   │   ├── table11_case_studies.csv
-│   │   ├── table12_markov_transition.csv
-│   │   └── table13_ablation.csv
-│   │
-│   └── reports/                      # Analysis reports
-│       └── COMPREHENSIVE_FINAL_REPORT.txt
+│       ├── table1_did_results.csv
+│       ├── table2_parallel_trends.csv
+│       ├── table3_iv_analysis.csv
+│       ├── table4_mediation.csv
+│       ├── table5_hte_context.csv
+│       ├── table6_sota_comparison.csv
+│       ├── table7_external_benchmarks.csv
+│       ├── table8_cost_benefit.csv
+│       ├── table9_sensitivity.csv
+│       ├── table10_error_analysis.csv
+│       ├── table11_case_studies.csv
+│       ├── table12_markov_transition.csv
+│       └── table13_ablation.csv      
 │
 └── docs/                             # Documentation
     ├── DATA_DICTIONARY.md            # Variable descriptions
