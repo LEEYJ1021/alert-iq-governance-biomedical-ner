@@ -211,7 +211,7 @@ alert-iq-governance-biomedical-ner/
 │   └── 10_run_full_pipeline.py       # Master script
 │
 ├── outputs/                          # All outputs
-│   ├── figures/                      # 12 publication figures
+│   ├── figures/                      # 12 figures
 │   │   ├── fig1_did.png
 │   │   ├── fig2_parallel_trends.png
 │   │   ├── fig3_event_study.png
